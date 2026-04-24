@@ -1,0 +1,3 @@
+[submodule "build/tlc"]
+	path = build/tlc
+	url = https://github.com/charguer/tlc
